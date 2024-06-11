@@ -20,7 +20,7 @@ Bearbeitet<br />
 ::::
 
 :::: { .fs-s .align-center }
-von<br /><br /> 
+von<br /> 
 ::::
 
 :::: { .fs-l .align-center}
