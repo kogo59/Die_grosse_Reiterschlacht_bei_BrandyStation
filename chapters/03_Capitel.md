@@ -7,7 +7,7 @@ Charakteristik der amerikanischen Reiterei.
 ::::
 
 
-# <small>Drittes Capitel</small><br /> Charakteristik der amerikanischen Reiterei.{#drei .unnumbered}
+# <small>Drittes Capitel. </small><br /> Charakteristik der amerikanischen Reiterei.{#drei .unnumbered}
 
 ::: justified
 
