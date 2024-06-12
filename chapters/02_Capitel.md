@@ -27,12 +27,12 @@ Aufzeichnungen von Heros von Borcke.
 **Kurze Notizen über die unionistischen Führer Pleasanton und Percy Windham.**<br />
 ::::
 
-# <small>Zweites Capitel</small><br />Charakteristik der Führer. {#zwei .unnumbered}
+# <small>Zweites Capitel</small><br /> Charakteristik der Führer. {#zwei .unnumbered}
 
 ::: justified
 
 :::: { .wrap-80 }
-![&nbsp;](Die_grosse_Reiterschlacht_bei_BrandyStation_002.jpg ""){ .align_center }
+![&nbsp;](Die_grosse_Reiterschlacht_bei_BrandyStation_023.jpg ""){ .align_center }
 ::::
 
 

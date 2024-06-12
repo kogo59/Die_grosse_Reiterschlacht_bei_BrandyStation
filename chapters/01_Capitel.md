@@ -10,7 +10,7 @@ Allgemeine Kriegslage.
 Mit Übersichtskarte von dem geplanten strategischen Vormarsch.
 ::::
 
-# <small>Erstes Capitel</small><br />Einleitung. {#eins .unnumbered}
+# <small>Erstes Capitel.</small><br /> Einleitung. {#eins .unnumbered}
 
 ::: justified
 
