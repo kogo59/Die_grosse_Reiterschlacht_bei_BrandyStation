@@ -22,7 +22,7 @@ Die Schlacht bei Brandy Station am 9. Juni 1863.
 
 ## A. Einleitende Bemerkungen.
 
-:::: { .wrap-90 }
+:::: { .wrap-80 }
 ![&nbsp;](Die_grosse_Reiterschlacht_bei_BrandyStation_075.jpg ""){ .align_center }
 ::::
 
