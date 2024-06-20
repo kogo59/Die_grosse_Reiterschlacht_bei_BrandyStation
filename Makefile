@@ -68,8 +68,13 @@ $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA_PDF) $(CHAPTERS_HTML
 	mkdir -p $(BUILD)/pdf
 	cp  *.css  $(IMAGES_FOLDER)
 	cp  $(IMAGES_FOLDER)/Die_grosse_Reiterschlacht_bei_BrandyStation_*.jpg .
+	cp  $(IMAGES_FOLDER)/logo*.jpg .
+	cp  $(IMAGES_FOLDER)/cover*.jpg .	
 	pandoc $(ARGS_HTML) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(PREFACE_HTML_PDF) $(CHAPTERS)
 	rm  $(IMAGES_FOLDER)/*.css
 	rm Die_grosse_Reiterschlacht_bei_BrandyStation_*.jpg 
+	rm logo*.jpg 
+	rm cover*.jpg 
+	
 	
 

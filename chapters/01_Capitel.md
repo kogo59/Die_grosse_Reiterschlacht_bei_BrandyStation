@@ -58,7 +58,7 @@ Bürger acht Millionen conföderierten Bewohnern gegenüberstanden; ersteren sch
 es daher ein leichtes zu sein, die Minderzahl unter das Joch zu beugen.
 
 :::: { .wrap-80 }
-![Skizze der Offensivbewegung der conföderirten Armee nach Pensylvanien, <small>zu der die Schlacht bei **Brandy-Station** die Einleitung bildet.</small>](Die_grosse_Reiterschlacht_bei_BrandyStation_012.jpg "Skizze der Offensivbewegung der conföderirten Armee nach Pensylvanien, <small>zu der die Schlacht bei **Brandy-Station** die Einleitung bildet.</small>"){#b018}
+![Skizze der Offensivbewegung der conföderirten Armee nach Pensylvanien, <small>zu der die Schlacht bei **Brandy-Station** die Einleitung bildet.</small>](Die_grosse_Reiterschlacht_bei_BrandyStation_012.jpg "Skizze der Offensivbewegung der conföderirten Armee nach Pensylvanien, <small>zu der die Schlacht bei **Brandy-Station** die Einleitung bildet.</small>"){#b012}
 ::::
 
 Doch schon der erste Zusammenstoss bei, Bull Run zeigte die moralische
