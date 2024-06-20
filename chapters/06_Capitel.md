@@ -699,7 +699,7 @@ gefallen; verschiedene andere verwundet, wie General *William Lee,* Oberst
 Auch unser Stab hatte sein Contingent zu den Verlusten beigetragen: Captain
 *Farley* tot, Captain *White* verwundet, Leutnant *Goldsborough* gefangen.
 
-Auf Seite der Feinde waren gefallen: ein BrigadeCommandeur, *Davis,* und mehrere
+Auf Seite der Feinde waren gefallen: ein Brigade-Commandeur, *Davis,* und mehrere
 Regiments-Commandeure neben vielen anderen Offizieren; und ausser etwa 400
 gefallenen und verwundeten Soldaten hatten sie 40 gefangene Offiziere und 400
 Soldaten, eine vollständige Batterie und eine grosse Menge von
