@@ -229,9 +229,6 @@ denkwürdigsten gewesen und wird es bleiben.
 :::: { .wrap-10 }
 ![&nbsp;](logo3.jpg ""){ .align_center }
 ::::
-
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
+<br /><br /><br /><br />
 
 [^0700]: [Anm.: Man lese hierzu die Instructionen Stuart’s, die im letzten Abschnitte gegeben sind.]{.footnote}
