@@ -1,5 +1,5 @@
 
-:::: { .fs-xl .align-center }
+:::: { .fs-xl .align-center .break-before}
 Die große Reiterschlacht<br />
 ::::
 

@@ -5,6 +5,9 @@
 :::: { .fs-xl .align-center  .break-after}
 Die Schlacht bei Brandy Station am 9. Juni 1863.
 ::::
+
+:::: { .break-after}
+
 **A. Einleitende Bemerkungen.**
 
 **B. Die eigentliche Schlacht.**
@@ -14,7 +17,7 @@ Die Schlacht bei Brandy Station am 9. Juni 1863.
 3. Ende der Schlacht zwischen 4½ und 7 Uhr abends (Plan D).
 
 **C. Kurze Darstellung der Ereignisse, die der Schlacht folgten.**
-
+::::
 
 # <small>Fünftes Capitel. </small><br /> Die Schlacht bei Brandy Station.{#fuenf .unnumbered}
 

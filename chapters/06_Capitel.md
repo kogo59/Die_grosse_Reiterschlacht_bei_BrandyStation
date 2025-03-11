@@ -6,7 +6,7 @@
 Einzelberichte und Auszüge aus Kriegstagebüchern.
 ::::
 
-:::: fs-xs
+:::: { .fs-xs .break-after }
 1. **Oberst White’s Bericht.**
 2. **Major Beckham’s Bericht.**
 3. **Vor und während der Schlacht. Persönliche Erlebnisse des Stabschefs Heros von Borcke.**

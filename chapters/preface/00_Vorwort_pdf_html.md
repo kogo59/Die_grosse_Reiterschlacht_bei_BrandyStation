@@ -65,12 +65,13 @@ Palme des Sieges, die schliesslich, trotz der Übermacht des Feindes und trotz
 seiner anfangs errungenen Vorteile, dem cavalleristischen Genius des grossen
 Reiterführers Stuart zufiel. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;Berlin, im August 1893. | 
+&nbsp;&nbsp;&nbsp;&nbsp;Berlin, im August 1893. 
 
-::: align-right
+::::
+
+::: { .align-right .break-after }
 **Die Verfasser**
 :::
 
-::::
 
 

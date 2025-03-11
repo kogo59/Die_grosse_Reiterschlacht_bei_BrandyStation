@@ -6,7 +6,7 @@
 Allgemeine Kriegslage.
 ::::
 
-:::: { .fs-xs .align-center .break-after}
+:::: { .fs-xs .align-center .break-after }
 Mit Übersichtskarte von dem geplanten strategischen Vormarsch.
 ::::
 
